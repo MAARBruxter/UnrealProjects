@@ -1,0 +1,30 @@
+# --- Unreal Engine ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+.idea/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE and project files ---
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# --- Logs ---
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.zip
+*.rar
